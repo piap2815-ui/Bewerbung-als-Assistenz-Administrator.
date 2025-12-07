@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Meine Leader Bewerbung</title>
+    <style>
+        body { background-color: #111; color: white; font-family: Arial; text-align: center; }
+        h1 { color: red; }
+        .button {
+            border: 2px solid red;
+            padding: 10px 20px;
+            display: inline-block;
+            margin-top: 20px;
+            color: white;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Blood Street Gang</h1>
+<h2>Bewerbung als Leader – Dein Name</h2>
+
+<a class="button" href="#bewerbung">Bewerbung lesen</a>
+
+<h2 id="bewerbung">Meine Bewerbung</h2>
+<p>Hier kannst du deine Texte einfügen…</p>
+
+</body>
+</html>
